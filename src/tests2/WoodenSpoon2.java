@@ -5,5 +5,6 @@ public class WoodenSpoon2 {
 
         System.out.println("WoodenSpoon");
         System.out.println("WoodenSpoon");
+        System.out.println("WoodenSpoon");
     }
 }
